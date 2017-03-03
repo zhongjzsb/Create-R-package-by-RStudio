@@ -25,16 +25,15 @@ install.packages("Rcpp")
 
 ## Modify your package
 
-* add R script file into _./R_ folder
-* add Rcpp script file into _./src_ folder
+* add R script files into _./R_ folder
+* add Rcpp script files into _./src_ folder
 
 ## Compile your package
 
 You can find following info in the sample hello.R
 >   Some useful keyboard shortcuts for package authoring:
-
->   Build and Reload Package:  'Ctrl + Shift + B'
->   Check Package:             'Ctrl + Shift + E'
+*   Build and Reload Package:  'Ctrl + Shift + B'
+*   Check Package:             'Ctrl + Shift + E'
 
 Then click **Build** -> **Build Source Package**
 
