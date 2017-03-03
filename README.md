@@ -45,6 +45,6 @@ install.packages("packageName", repos = NULL, type = "source")
 ```
 # References
 
-[RStudio](https://support.rstudio.com/hc/en-us/articles/200486488-Developing-Packages-with-RStudio)
-[Rcpp Package](https://support.rstudio.com/hc/en-us/articles/200486088-Using-Rcpp-with-RStudio)
-[R package](http://r-pkgs.had.co.nz/)
+* [RStudio](https://support.rstudio.com/hc/en-us/articles/200486488-Developing-Packages-with-RStudio)
+* [Rcpp Package](https://support.rstudio.com/hc/en-us/articles/200486088-Using-Rcpp-with-RStudio)
+* [R package](http://r-pkgs.had.co.nz/)
