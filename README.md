@@ -39,9 +39,10 @@ Then click **Build** -> **Build Source Package**
 
 ## Install your package in other machine
 
-in R, you can write
+Put the _tar.gz_ or _zip_ file in to **packageDirectory**. 
+In R, you can write
 ```
-install.packages("packageName", repos = NULL, type = "source")
+install.packages("packageDirectory/packageName", repos = NULL, type = "source")
 ```
 # References
 
