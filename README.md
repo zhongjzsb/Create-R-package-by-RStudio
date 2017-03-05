@@ -6,7 +6,7 @@ date: 2017-03-03
 
 # Framework
 
-There are lots of sources about build R packages. Here is a simple intro for create one with RStudio and with Rcpp.
+There are lots of sources about building R packages. Here is a simple intro for creating one with RStudio and with Rcpp.
 
 ## Requirements
 
